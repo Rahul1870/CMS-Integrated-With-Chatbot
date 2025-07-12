@@ -1,0 +1,16 @@
+You: hello
+Chatbot: Hi there! How can I assist you today?
+You: your name
+Chatbot: I'm a chatbot made in Java!
+You: time
+Chatbot: I can't tell time yet, but I can chat!
+You: ok
+Chatbot: Sorry, I don't understand. Can you ask something else?
+You: Name of college
+Chatbot: Sorry, I don't understand. Can you ask something else?
+You: name of college
+Chatbot: Aimt lucknow
+You: hello
+Chatbot: Hi there! How can I assist you today?
+You: time
+Chatbot: I can't tell time yet, but I can chat!
